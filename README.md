@@ -24,7 +24,7 @@ Prerequisites
     Clone the Repository:
 
 
-    git clone https://github.com/yourusername/datasavingapp.git
+    git clone https://github.com/princemotif/DataSavingApp.git
 
     Open in Android Studio:
         Launch Android Studio and select Open an existing project.
